@@ -19,7 +19,7 @@ docs/_build
 # ignore specific kinds of files like all PDFs
 *.pdf
 *.ipynb
-!docs/energy_steel_kaggle_integration.ipynb
+!docs/energy_steel/energy_steel_kaggle_integration.ipynb
 *TODO*
 
 # ignore executable and config files
